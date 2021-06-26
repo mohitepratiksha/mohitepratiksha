@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 Currently a pre-final year student in B.Tech Computer Science and Engineering from SRM University Chennai. Interested in Robotic and has experience with computer vision problems in Python, ROS. Machine Learning and Deep Learning Enthusiast. Good in Python and C++
 
-- 🌱 I’m currently learning: Data Structure and Python
+- 🌱 I’m currently learning: Data Structure ,Machine Learning ,Deep Learning
 - 📫 How to reach me: pratikshamohite762@gmail.com
+- 👯 I’m looking to collaborate on Deep Learning Projects 
 - 📄 Know about my experiences: https://drive.google.com/file/d/1ztbG0ogMrVj8HdKMzziIxZZoxk5b_QCI/view?usp=sharing
 - ⚡If you don't sacrifice for what you want,what you want becomes sacrifice!⚡
 
@@ -40,6 +41,12 @@ mysql, oracle
 ## 🚀 Other
 
 Linux ,Git ,Arduino ,Raspberry Pi
+
+<img align="center" alt="Pratiksha Mohite's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=mohitepratiksha&show_icons=true&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitepratiksha&layout=compact)](https://github.com/mohitepratiksha/github-readme-stats)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitepratiksha"/>
 
 <h3 align="center">Contact 👀</h3>
 <p align="center">

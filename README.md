@@ -32,7 +32,7 @@ C , C++, Python, PHP
 
 Tensorflow, OpenCV, ROS
 
-## 👨‍💻 Database 
+# 💎 Database 
 
 mysql, oracle
 
@@ -43,6 +43,7 @@ Linux ,Git ,Arduino ,Raspberry Pi
 <h3 align="center">Contact 👀</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/pratiksha-mohite/"><img width="50px" src="https://img.icons8.com/color/2x/linkedin.png"></a>
-  <a href="https://www.instagram.com/pratiksha3219/
-"><img width="50px" src="https://img.icons8.com/fluent/2x/instagram-new.png"></a>
+  <a href="https://www.instagram.com/pratiksha3219/"><img width="50px" src="https://img.icons8.com/fluent/2x/instagram-new.png"></a>
+  <a href="https://www.hackerrank.com/pratikshamohite1?hr_r=1"><img width="50px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"></a>
+  
 </p>

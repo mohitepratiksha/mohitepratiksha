@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Currently a pre-final year student in B.Tech Computer Science and Engineering from SRM University Chennai. Interested in Robotic and has experience with computer vision problems in Python, ROS. Machine Learning and Deep Learning Enthusiast. Good in Python and C++
 
-- 🌱 I’m currently learning: Data Structure ,Machine Learning ,Deep Learning
+- 🌱 I’m currently learning: Data Structure and Data Science
 - 📫 How to reach me: pratikshamohite762@gmail.com
 - 👯 I’m looking to collaborate on Deep Learning Projects 
 - 📄 Know about my experiences: https://drive.google.com/file/d/1ztbG0ogMrVj8HdKMzziIxZZoxk5b_QCI/view?usp=sharing
